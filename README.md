@@ -19,7 +19,7 @@ However, if you want to use the requests library, you'll need to install it firs
     Open your terminal or command prompt.
     Type the following command and press Enter:
 
-  pip install requests
+      pip install requests
 
 This will download and install the requests library for you.
 
